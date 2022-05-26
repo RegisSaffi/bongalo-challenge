@@ -13,6 +13,7 @@ class WelcomeScreen extends StatelessWidget {
           Image.asset(
             "assets/images/bg.png",
             fit: BoxFit.cover,
+            width: MediaQuery.of(context).size.width,
           ),
           Container(
             color: overlayColor.withOpacity(.75),
