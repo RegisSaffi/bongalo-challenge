@@ -11,6 +11,12 @@ Bongalo mobile app challenge with Flutter
 
 <img src="https://github.com/RegisSaffi/bongalo-challenge/blob/main/assets/screenshots/ios1.png" height="500" alt="iOS screenshot 1">                    <img src="https://github.com/RegisSaffi/bongalo-challenge/blob/main/assets/screenshots/ios2.png" height="500" alt="iOS screenshot 2">  
 
+**Android APK**
+
+- [Android APK download](https://drive.google.com/file/d/1PQnwdN3A0d8fCErQhGvoP-dDjh3IUW7U/view?usp=sharing)
+
+You can download this (Non optimized) Android APK and install it to your Android device.
+
 ## How to run this project
 
 This project is built with Flutter and Dart language, It is created with Flutter `2.10.0` version, and Dart `2.16.0` version.
