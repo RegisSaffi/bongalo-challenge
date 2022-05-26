@@ -38,7 +38,7 @@ class _LoginScreenState extends State<LoginScreen> {
               direction: Axis.vertical,
               children: [
                 Flexible(
-                  flex: 6,
+                  flex: 5,
                   child: Center(
                     child: RichText(
                       text: const TextSpan(

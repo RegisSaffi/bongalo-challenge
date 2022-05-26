@@ -35,6 +35,7 @@ class _OtpCodeScreenState extends State<OtpCodeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      resizeToAvoidBottomInset: true,
       appBar: AppBar(
         title: const Text("Verify"),
       ),
@@ -46,7 +47,7 @@ class _OtpCodeScreenState extends State<OtpCodeScreen> {
           direction: Axis.vertical,
           children: [
             Flexible(
-              flex: 4,
+              flex: 3,
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 crossAxisAlignment: CrossAxisAlignment.start,
